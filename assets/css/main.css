@@ -2610,7 +2610,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 20em; /*Original height: 15em */
+		height: 15em; /*Original height: 15em */
 		width: 100%;  /*Original width: 100% */
 	}
 
